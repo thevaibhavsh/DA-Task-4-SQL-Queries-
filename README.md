@@ -19,8 +19,11 @@ To explore and analyze an e-commerce database using SQL queries.
 
 ## Files Included
 - `SQL Queries.sql`: All queries written for this task
+  
 - Output:
+  
   ![Output (1)](https://github.com/user-attachments/assets/5a012766-58b1-4c8e-bfdf-33c519993b4e)
+  
   ![Output (2)](https://github.com/user-attachments/assets/b6b5b094-ad09-4715-8cbc-933cd1e8f513)
 
 ## Learning Outcome
